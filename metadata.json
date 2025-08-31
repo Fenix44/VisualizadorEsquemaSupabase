@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Schema Visualizer",
+  "description": "A simple web application to visualize the structure of a Supabase database. It displays tables, columns, and their types in a clean, user-friendly interface based on a provided schema.",
+  "requestFramePermissions": []
+}
